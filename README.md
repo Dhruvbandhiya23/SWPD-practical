@@ -1,0 +1,2 @@
+# SWPD-practical
+all pracicals
